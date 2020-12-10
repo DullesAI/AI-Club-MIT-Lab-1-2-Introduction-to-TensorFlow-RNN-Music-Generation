@@ -13,4 +13,5 @@ This is the link to access Lab 1: https://github.com/aamini/introtodeeplearning/
 
 This is the link to access Lab 2: https://github.com/aamini/introtodeeplearning/blob/master/lab1/Part2_Music_Generation.ipynb
 
+To be able to run the lab, use this link to download docker, which is preformated for this lab: https://github.com/chenchenece/MIT-6.S191-Introduction-to-Deep-Learning/blob/master/WindowsDocker.md
 
