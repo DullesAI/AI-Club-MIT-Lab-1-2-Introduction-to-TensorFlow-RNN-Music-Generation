@@ -21,3 +21,5 @@ For both labs, we recommend to make copies of each of them in your own drive.
 After you are done, using the fork you've made in github, make sure to copy the file you've made over to github. Doing this will result in the completed lab picture above.
 
 ![github-large](https://github.com/DullesAI/AI-Club-MIT-Lab-1-2-Introduction-to-TensorFlow-RNN-Music-Generation/blob/main/image/image4.JPG)
+
+In addition, download the song files from your lab and place them in a samplesongs folder in your repository. We're excited to hear the music you make!
