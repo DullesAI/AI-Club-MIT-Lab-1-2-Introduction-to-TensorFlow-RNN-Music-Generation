@@ -1,6 +1,6 @@
 # AI-Club-MIT-Lab-1-2-Introduction-to-TensorFlow-RNN-Music-Generation
 To upload your solutions, fork using the top right. If you need to review do the first assignment.
-(picture)
+![github-large](https://imgur.com/a/bcUYXqB)
 
 Lab 1 was done in the meeting on 12/11. 
 A completed lab should look like this and include all of these files:
